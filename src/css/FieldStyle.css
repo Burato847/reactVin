@@ -1,0 +1,10 @@
+.filds-wrap {
+    display: flex;
+    block-size: 100%;
+}
+.fild {
+    flex-direction: column;
+    border: 2px solid silver;
+    padding: 1%;
+    width: 25%;
+}
